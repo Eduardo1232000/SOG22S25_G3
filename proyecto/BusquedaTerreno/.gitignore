@@ -1,0 +1,45 @@
+# Archivos de configuración del usuario
+*.local
+*.user
+*.suo
+
+# Configuraciones del IDE (VS Code, JetBrains, etc.)
+.vs/
+.idea/
+.settings/
+
+# Archivos temporales y de respaldo
+*.tmp
+*.log
+*.bak
+*.cache
+*.db
+
+# Archivos de errores y capturas de depuración
+*.screenshots/
+*.screenshots
+*.errors/
+*.errors
+
+# Resultados de pruebas
+TestResults/
+
+# Publicaciones (opcionales, puedes quitar esta línea si deseas versionarlas)
+publish/
+
+# Paquetes generados
+*.nupkg
+
+# Dependencias descargadas automáticamente por UiPath
+.packages/
+
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de bloqueo temporales
+project.json.lock
+
+# Archivos ocultos del sistema operativo (por si acaso)
+Thumbs.db
+.DS_Store
