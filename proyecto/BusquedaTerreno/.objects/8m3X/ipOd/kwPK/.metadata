@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Terrenos Guatemala  Venta de terrenos ",
+  "Type": "Screen",
+  "Id": "kwPKJKikYUCNGSxNXor3Xw",
+  "Reference": "PqvuenE2DUyAtFu7wGsWmg/kwPKJKikYUCNGSxNXor3Xw",
+  "ParentRef": "PqvuenE2DUyAtFu7wGsWmg/ipOdcFlQyku1-WFuWuMgfQ",
+  "Created": "2025-10-02T02:50:23.9498064Z",
+  "Updated": "2025-10-02T02:50:23.9498064Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

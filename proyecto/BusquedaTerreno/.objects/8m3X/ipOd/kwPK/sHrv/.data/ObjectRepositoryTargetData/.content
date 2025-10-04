@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fKofGwR7AUCJlNkiWZs5ag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="encuentra24.com/guatemala-es/bienes-raices-venta-de-propiedades-lotes-y-terrenos" CVScreenId="41e74aad-fe94-44f5-8163-0fab0a0b4b42" CvElementArea="367, 529, 31, 32" CvType="Icon" DesignTimeRectangle="370, 532, 26, 26" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='ir' parentid='filter-price' tag='BUTTON' type='button' /&gt;" Guid="e8448711-a279-47b0-986c-05fc91f37064" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF6SURBVEhLzZY9yoQwEIa/q4k32AOIpZ21d9gTLF7DE2hrY20hy8LCFh5A0Pl4hUhM3tX4A27xQDCTeXBMJv51XSdX8Pviqqrk8XhIHMdyu93E9/0RjPEMc4hhaxmr4qIoxsSe5zmBWKxhuXQWxff7nSZ3AWtZTgUVt2276S2/gRzIxRxUfIZUgVzMYYmPlPcbrOwzMTYFW6iIomiEza1hbriZeKnEEL7fb/l8Prs+hVnySYwzyBbopGk6wuZc0M/5JEYDYMEuJEni9AngsMQu5SvLUpqmmcZ1Xcvz+ZRhGCTLMiveRC/3JEbrY8E6prjve8nzXMIwtGIZcFhi9F0WrGOKX6+XBEFgxX0DjlPEauwKFe8p9VYxLfWezbVVTDeXy3E6KqbHyaWBHIU2EOBS7r3oZQYz8dolcYTFSwJcci0qziy5WWIFFV/266M4UnZWXp1FMcCm2PL2iDU3EmNVrMAZRANAYrQ+9F2AMZ5hTj+naziLz+YicSf/MVqR6kiyh3sAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Terrenos Guatemala | Venta de terrenos y lotes en Guatemala' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="49875447b9b726e11dea794d3bf06ee5.png" xmlns="">0SrM2pFZ5g0qiX7AJF06BvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

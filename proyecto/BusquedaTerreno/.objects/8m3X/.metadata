@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Terrenos Guatemala  Venta de terrenos y lotes en Guatemala",
+  "Type": "App",
+  "Id": "8m3XywmOyEGjHWNVY9LJRA",
+  "Reference": "PqvuenE2DUyAtFu7wGsWmg/8m3XywmOyEGjHWNVY9LJRA",
+  "Created": "2025-10-02T02:50:23.6305376Z",
+  "Updated": "2025-10-02T02:50:23.6305376Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

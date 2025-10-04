@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Q US$",
+  "Type": "Element",
+  "Id": "TN2TSVHNN0mtBflTYs4siQ",
+  "Reference": "PqvuenE2DUyAtFu7wGsWmg/TN2TSVHNN0mtBflTYs4siQ",
+  "ParentRef": "PqvuenE2DUyAtFu7wGsWmg/kwPKJKikYUCNGSxNXor3Xw",
+  "Created": "2025-10-02T03:04:21.0101974Z",
+  "Updated": "2025-10-02T03:04:21.0101974Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

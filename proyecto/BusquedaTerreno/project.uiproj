@@ -1,0 +1,6 @@
+{
+  "Name": "BusquedaTerreno",
+  "ProjectType": "Process",
+  "Description": "Automatización 2 SOG2",
+  "MainFile": "Main.xaml"
+}

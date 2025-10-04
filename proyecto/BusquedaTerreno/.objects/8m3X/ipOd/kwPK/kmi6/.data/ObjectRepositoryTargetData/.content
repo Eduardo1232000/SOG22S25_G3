@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oeezlCA2M061y_jUbfRaBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="encuentra24.com/guatemala-es/bienes-raices-venta-de-propiedades-lotes-y-terrenos" CVScreenId="7a06f648-ad78-4be5-90d0-b500ae552143" CvElementArea="236, 487, 125, 40" CvTextArea="284, 504, 28, 10" CvTextArgument="max" CvType="Button" DesignTimeRectangle="239, 490, 120, 36" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='f_price[to]' tag='INPUT' type='text' /&gt;" Guid="c231ce25-e907-46e5-ada9-c6db461a75eb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Terrenos Guatemala | Venta de terrenos y lotes en Guatemala' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d4f966cfff51de4fc4cb3b8f7617bcd5.png" xmlns="">0hojms72P30WC2uXSv9HIOg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

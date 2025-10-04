@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Lista desplegable(2)",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "SfLW0DoA2UOUsI62CuNtZg",
+  "Reference": "PqvuenE2DUyAtFu7wGsWmg/SfLW0DoA2UOUsI62CuNtZg",
+  "ParentRef": "PqvuenE2DUyAtFu7wGsWmg/kwPKJKikYUCNGSxNXor3Xw",
+  "Created": "2025-10-02T03:13:59.0536744Z",
+  "Updated": "2025-10-02T03:13:59.0536744Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
