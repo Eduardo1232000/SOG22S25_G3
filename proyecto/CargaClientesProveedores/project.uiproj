@@ -1,0 +1,6 @@
+{
+  "Name": "CargaClientesProveedores",
+  "ProjectType": "Process",
+  "Description": "Proyecto Gerenciales 2 G3",
+  "MainFile": "Main.xaml"
+}
