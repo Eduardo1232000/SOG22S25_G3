@@ -1,0 +1,51 @@
+External ID,Name,Product Type,Internal Reference,Barcode,Sales Price,Cost,Weight,Sales Description,IsSalesProduct
+product_template_1,Café Molido 500g,Goods,FOOD01,750123456001,5.50,3.20,0.5,"Café arábica molido, sabor intenso y aroma fresco. Ideal para cafeteras tradicionales.", FALSE
+product_template_2,Té Verde 20 sobres,Goods,FOOD02,750123456002,3.20,1.80,0.1,"Té verde en bolsitas individuales, antioxidante natural y refrescante.", FALSE
+product_template_3,Jugo de Naranja 1L,Goods,FOOD03,750123456003,2.80,1.40,1.0,"Jugo 100% natural exprimido de naranjas frescas, sin azúcar añadida.", FALSE
+product_template_4,Agua Mineral 600ml,Goods,FOOD04,750123456004,1.20,0.50,0.6,"Agua mineral natural, ligera y pura. Perfecta para la hidratación diaria.", FALSE
+product_template_5,Refresco Cola 355ml,Goods,FOOD05,750123456005,1.00,0.45,0.355,"Refresco sabor cola con gas, clásico y refrescante.", FALSE
+product_template_6,Pan Integral 500g,Goods,FOOD06,750123456006,2.50,1.10,0.5,"Pan integral rico en fibra, ideal para desayunos y cenas.", FALSE
+product_template_7,Galletas de Avena 200g,Goods,FOOD07,750123456007,2.20,1.00,0.2,"Galletas crujientes de avena, nutritivas y con bajo contenido en grasas.", FALSE
+product_template_8,Arroz Blanco 1kg,Goods,FOOD08,750123456008,1.80,0.90,1.0,"Arroz blanco de grano largo, ideal para acompañar todo tipo de comidas.", FALSE
+product_template_9,Frijoles Negros 1kg,Goods,FOOD09,750123456009,2.00,1.10,1.0,"Frijoles negros seleccionados, fuente de proteína vegetal y fibra.", FALSE
+product_template_10,Azúcar Morena 1kg,Goods,FOOD10,750123456010,1.50,0.85,1.0,"Azúcar morena natural, sin refinar, con alto contenido en minerales.", FALSE
+product_template_11,Leche Entera 1L,Goods,FOOD11,750123456011,1.30,0.70,1.0,"Leche entera pasteurizada con todos sus nutrientes.", FALSE
+product_template_12,Yogurt Natural 250ml,Goods,FOOD12,750123456012,1.00,0.55,0.25,"Yogurt natural sin azúcar, fuente de calcio y probióticos.", FALSE
+product_template_13,Queso Cheddar 200g,Goods,FOOD13,750123456013,3.80,2.20,0.2,"Queso cheddar madurado, perfecto para sandwiches y hamburguesas.", FALSE
+product_template_14,Mantequilla 250g,Goods,FOOD14,750123456014,2.70,1.40,0.25,"Mantequilla natural elaborada con crema fresca de leche.", FALSE
+product_template_15,Huevos 12 piezas,Goods,FOOD15,750123456015,2.50,1.20,0.7,"Huevo fresco de gallina, rico en proteínas y vitaminas.", FALSE
+product_template_16,Pollo Entero 1.5kg,Goods,FOOD16,750123456016,6.50,4.20,1.5,"Pollo entero fresco listo para cocinar, fuente de proteína magra.", FALSE
+product_template_17,Carne de Res 1kg,Goods,FOOD17,750123456017,9.80,7.00,1.0,"Carne de res de primera calidad, especial para asados.", FALSE
+product_template_18,Pescado Tilapia 1kg,Goods,FOOD18,750123456018,7.50,5.20,1.0,"Filete de tilapia fresco, bajo en grasa y alto en omega 3.", FALSE
+product_template_19,Papas Fritas Bolsa 150g,Goods,FOOD19,750123456019,1.80,0.90,0.15,"Papas fritas crujientes con sal ligera, snack ideal.", FALSE
+product_template_20,Chocolate Barra 100g,Goods,FOOD20,750123456020,2.20,1.10,0.1,"Chocolate oscuro 70% cacao, antioxidante natural.", FALSE
+product_template_21,Cereal Corn Flakes 500g,Goods,FOOD21,750123456021,3.00,1.50,0.5,"Cereal de hojuelas de maíz, fortificado con vitaminas y minerales.", FALSE
+product_template_22,Aceite de Oliva 500ml,Goods,FOOD22,750123456022,5.50,3.80,0.5,"Aceite de oliva extra virgen, primera presión en frío.", FALSE
+product_template_23,Salsa de Tomate 350g,Goods,FOOD23,750123456023,1.80,0.95,0.35,"Salsa de tomate natural, ideal para pastas y guisos.", FALSE
+product_template_24,Mayonesa 200g,Goods,FOOD24,750123456024,1.50,0.70,0.2,"Mayonesa cremosa elaborada con huevo y aceite vegetal.", FALSE
+product_template_25,Mostaza 200g,Goods,FOOD25,750123456025,1.30,0.65,0.2,"Mostaza amarilla con sabor suave y textura cremosa.", FALSE
+product_template_26,Ketchup 400g,Goods,FOOD26,750123456026,1.90,0.85,0.4,"Ketchup elaborado con tomates frescos y especias.", FALSE
+product_template_27,Sal 1kg,Goods,FOOD27,750123456027,0.90,0.40,1.0,"Sal de mesa refinada, ideal para sazonar alimentos.", FALSE
+product_template_28,Pimienta Negra Molida 100g,Goods,FOOD28,750123456028,2.50,1.20,0.1,"Pimienta negra molida, especia aromática para carnes y salsas.", FALSE
+product_template_29,Vino Tinto 750ml,Goods,FOOD29,750123456029,12.00,8.50,0.75,"Vino tinto reserva, uvas seleccionadas y crianza en barrica.", FALSE
+product_template_30,Cerveza Lager 355ml,Goods,FOOD30,750123456030,1.80,0.90,0.355,"Cerveza lager refrescante con sabor equilibrado.", FALSE
+product_template_31,Whisky 750ml,Goods,FOOD31,750123456031,25.00,18.00,0.75,"Whisky escocés de 12 años de añejamiento.", FALSE
+product_template_32,Vodka 750ml,Goods,FOOD32,750123456032,18.00,12.50,0.75,"Vodka premium, destilado cinco veces para suavidad excepcional.", FALSE
+product_template_33,Gin 750ml,Goods,FOOD33,750123456033,22.00,15.00,0.75,"Gin aromático con notas de enebro y cítricos.", FALSE
+product_template_34,Tequila 750ml,Goods,FOOD34,750123456034,20.00,13.50,0.75,"Tequila 100% agave azul, doble destilación.", FALSE
+product_template_35,Ron Añejo 750ml,Goods,FOOD35,750123456035,19.00,12.80,0.75,"Ron añejo caribeño, suave y con notas dulces.", FALSE
+product_template_36,Bebida Energética 250ml,Goods,FOOD36,750123456036,1.50,0.80,0.25,"Bebida energética con cafeína, taurina y vitaminas B.", FALSE
+product_template_27,Helado Vainilla 1L,Goods,FOOD37,750123456037,4.50,2.50,1.0,"Helado de vainilla cremoso, ideal para postres.", FALSE
+product_template_38,Pastel de Chocolate 500g,Goods,FOOD38,750123456038,6.50,3.80,0.5,"Pastel suave de chocolate, decorado con glaseado.", FALSE
+product_template_39,Manzanas Rojas 1kg,Goods,FOOD39,750123456039,3.20,1.80,1.0,"Manzanas rojas frescas, crujientes y dulces.", FALSE
+product_template_40,Plátanos 1kg,Goods,FOOD40,750123456040,2.10,1.00,1.0,"Plátanos maduros, fuente natural de potasio.", FALSE
+product_template_41,Uvas Verdes 1kg,Goods,FOOD41,750123456041,4.00,2.50,1.0,"Uvas verdes frescas, jugosas y dulces.", FALSE
+product_template_42,Naranjas 1kg,Goods,FOOD42,750123456042,2.50,1.20,1.0,"Naranjas frescas, ideales para jugos y postres.", FALSE
+product_template_43,Piña Entera 1.5kg,Goods,FOOD43,750123456043,3.50,2.00,1.5,"Piña fresca, jugosa y rica en vitamina C.", FALSE
+product_template_44,Sandía 4kg,Goods,FOOD44,750123456044,7.00,4.50,4.0,"Sandía fresca, dulce y jugosa, perfecta para el verano.", FALSE
+product_template_45,Limones 1kg,Goods,FOOD45,750123456045,2.80,1.50,1.0,"Limones frescos, ideales para jugos y cocina.", FALSE
+product_template_46,Aguacates 1kg,Goods,FOOD46,750123456046,5.50,3.20,1.0,"Aguacates frescos, cremosos y ricos en grasas saludables.", FALSE
+product_template_47,Zanahorias 1kg,Goods,FOOD47,750123456047,1.90,0.90,1.0,"Zanahorias frescas, ricas en betacarotenos.", FALSE
+product_template_48,Tomates 1kg,Goods,FOOD48,750123456048,2.20,1.00,1.0,"Tomates frescos de ensalada, jugosos y dulces.", FALSE
+product_template_49,Cebollas 1kg,Goods,FOOD49,750123456049,1.50,0.70,1.0,"Cebollas frescas, base esencial de la cocina.", FALSE
+product_template_50,Pepinos 1kg,Goods,FOOD50,750123456050,2.00,0.90,1.0,"Pepinos frescos, crujientes y bajos en calorías.", FALSE

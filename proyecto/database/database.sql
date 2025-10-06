@@ -1,0 +1,24 @@
+CREATE DATABASE SOG2_Proyecto1_2S25;
+
+USE SOG2_Proyecto1_2S25;
+
+CREATE TABLE client(
+	id INT IDENTITY (1,1) PRIMARY KEY, 
+	first_name NVARCHAR (50) NOT NULL,
+	last_name NVARCHAR (50) NOT NULL, 
+	email NVARCHAR (50) NOT NULL,
+	gender NVARCHAR (50) NOT NULL,
+	phone NVARCHAR (50) NOT NULL,
+	cliente NVARCHAR (50) NOT NULL,
+
+);
+
+CREATE TABLE provider(
+	id INT IDENTITY (1,1) PRIMARY KEY, 
+	first_name NVARCHAR (50) NOT NULL,
+	last_name NVARCHAR (50) NOT NULL,
+	email NVARCHAR (50) NOT NULL,
+	gender  NVARCHAR (50) NOT NULL,
+	phone  NVARCHAR (50) NOT NULL, 
+	cliente NVARCHAR (50) NOT NULL,
+);
